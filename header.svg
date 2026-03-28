@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80">
+  <rect width="800" height="80" fill="#0d1117"/>
+  <rect x="0" y="24" width="800" height="32" fill="#1a3a2a" opacity="0.6"/>
+  <text x="40" y="44" fill="#3fb950" font-family="'SF Mono','Fira Code','IBM Plex Mono',monospace" font-size="20" font-weight="500">+ gemma garriga</text>
+</svg>
