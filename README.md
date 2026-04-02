@@ -3,5 +3,3 @@
 </p>
 
 I like the code under the AI.
-
-[repositories](https://github.com/gcgarriga?tab=repositories)
